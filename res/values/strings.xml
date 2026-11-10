@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BarTV</string>
+    <string name="key_service_desc">Nhận phím trên điều khiển để mở nhanh ứng dụng đã gán phím, và buộc dừng ứng dụng khi không có ADB (bấm nút Buộc dừng trong Thông tin ứng dụng). Không lưu hay gửi nội dung màn hình.</string>
+</resources>
